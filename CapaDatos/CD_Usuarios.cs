@@ -9,7 +9,7 @@ using CapaEntidad;
 using System.Data.SqlClient;
 using System.Data;
 
-//hola
+
 namespace CapaDatos
 {
     public class CD_Usuarios
