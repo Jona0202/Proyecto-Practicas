@@ -1,0 +1,9 @@
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\bin\Debug\CapaDatos.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\obj\Debug\CapaDatos.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache

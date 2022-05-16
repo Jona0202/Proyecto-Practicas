@@ -1,0 +1,11 @@
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache

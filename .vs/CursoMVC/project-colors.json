@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd0cb3d4-aa48-4da7-8a93-4cb336499cde": {
+      "ProjectGuid": "dd0cb3d4-aa48-4da7-8a93-4cb336499cde",
+      "DisplayName": "CapaPresentacionTienda",
+      "ColorIndex": 0
+    },
+    "50e3ebdd-ff1e-492d-a463-53b0f1934571": {
+      "ProjectGuid": "50e3ebdd-ff1e-492d-a463-53b0f1934571",
+      "DisplayName": "CapaPresentacionAdmin",
+      "ColorIndex": 1
+    },
+    "ba9fa596-e239-4ad1-a4dd-0fbe987befa0": {
+      "ProjectGuid": "ba9fa596-e239-4ad1-a4dd-0fbe987befa0",
+      "DisplayName": "CapaDatos",
+      "ColorIndex": 2
+    },
+    "b0a31103-f4c3-4e42-8a99-aa5c871d0355": {
+      "ProjectGuid": "b0a31103-f4c3-4e42-8a99-aa5c871d0355",
+      "DisplayName": "CapaNegocio",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
