@@ -302,7 +302,6 @@ C:\Users\Jonatan\Music\Proyecto-Practicas\CapaPresentacionAdmin\obj\Debug\CapaPr
 C:\Users\Jonatan\Music\Proyecto-Practicas\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
 C:\Users\Jonatan\Music\Proyecto-Practicas\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
 >>>>>>> Stashed changes
-=======
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll.config
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.dll
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaPresentacionAdmin\bin\CapaPresentacionAdmin.pdb

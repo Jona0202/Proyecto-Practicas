@@ -35,7 +35,6 @@ C:\Users\Jonatan\Music\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.cspr
 C:\Users\Jonatan\Music\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\Jonatan\Music\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.pdb
 >>>>>>> Stashed changes
-=======
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaNegocio\bin\Debug\CapaNegocio.dll
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaNegocio\bin\Debug\CapaNegocio.pdb
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaNegocio\bin\Debug\CapaDatos.dll

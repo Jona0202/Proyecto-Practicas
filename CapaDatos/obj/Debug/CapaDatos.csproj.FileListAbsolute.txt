@@ -29,7 +29,6 @@ C:\Users\Jonatan\Music\Proyecto-Practicas\CapaDatos\obj\Debug\CapaDatos.csproj.C
 C:\Users\Jonatan\Music\Proyecto-Practicas\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Jonatan\Music\Proyecto-Practicas\CapaDatos\obj\Debug\CapaDatos.pdb
 >>>>>>> Stashed changes
-=======
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaDatos\bin\Debug\CapaDatos.dll
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaDatos\bin\Debug\CapaDatos.pdb
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaDatos\bin\Debug\CapaEntidad.dll
