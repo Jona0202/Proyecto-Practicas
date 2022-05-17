@@ -4,3 +4,9 @@ C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\obj\Debug\C
 C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
 C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaEntidad\obj\Debug\CapaEntidad.pdb
