@@ -4,9 +4,18 @@ C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\obj\Debug\C
 C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb
 C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+<<<<<<< Updated upstream
 D:\DiplomadosACIS\Proyecto-Practicas\CapaEntidad\bin\Debug\CapaEntidad.dll
 D:\DiplomadosACIS\Proyecto-Practicas\CapaEntidad\bin\Debug\CapaEntidad.pdb
 D:\DiplomadosACIS\Proyecto-Practicas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
 D:\DiplomadosACIS\Proyecto-Practicas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 D:\DiplomadosACIS\Proyecto-Practicas\CapaEntidad\obj\Debug\CapaEntidad.dll
 D:\DiplomadosACIS\Proyecto-Practicas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+=======
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+>>>>>>> Stashed changes

@@ -9,6 +9,7 @@ C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaNegocio\obj\Debug\C
 C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb
 C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+<<<<<<< Updated upstream
 D:\DiplomadosACIS\Proyecto-Practicas\CapaNegocio\bin\Debug\CapaNegocio.dll
 D:\DiplomadosACIS\Proyecto-Practicas\CapaNegocio\bin\Debug\CapaNegocio.pdb
 D:\DiplomadosACIS\Proyecto-Practicas\CapaNegocio\bin\Debug\CapaDatos.dll
@@ -20,3 +21,16 @@ D:\DiplomadosACIS\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.csproj.Co
 D:\DiplomadosACIS\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 D:\DiplomadosACIS\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.dll
 D:\DiplomadosACIS\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+=======
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Jonatan\Music\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+>>>>>>> Stashed changes
