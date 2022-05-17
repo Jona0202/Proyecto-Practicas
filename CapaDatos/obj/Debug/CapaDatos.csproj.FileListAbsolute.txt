@@ -7,6 +7,7 @@ C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\obj\Debug\Cap
 C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\obj\Debug\CapaDatos.dll
 C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\obj\Debug\CapaDatos.pdb
 C:\ProgramasVisual\Curso de Sistema Web Carrito\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 D:\DiplomadosACIS\Proyecto-Practicas\CapaDatos\bin\Debug\CapaDatos.dll
 D:\DiplomadosACIS\Proyecto-Practicas\CapaDatos\bin\Debug\CapaDatos.pdb
@@ -28,3 +29,14 @@ C:\Users\Jonatan\Music\Proyecto-Practicas\CapaDatos\obj\Debug\CapaDatos.csproj.C
 C:\Users\Jonatan\Music\Proyecto-Practicas\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Jonatan\Music\Proyecto-Practicas\CapaDatos\obj\Debug\CapaDatos.pdb
 >>>>>>> Stashed changes
+=======
+C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaDatos\obj\Debug\CapaDatos.pdb
+>>>>>>> a711128e5df1be410554da713a0aca80c3a60ef4
