@@ -47,3 +47,14 @@ C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaNegocio\obj\Debug\CapaNegocio.cspr
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaNegocio\obj\Debug\CapaNegocio.pdb
 >>>>>>> a711128e5df1be410554da713a0aca80c3a60ef4
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaNegocio\obj\Debug\CapaNegocio.pdb
