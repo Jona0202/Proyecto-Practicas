@@ -27,3 +27,9 @@ C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaEntidad\obj\Debug\CapaEntidad.cspr
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaEntidad\obj\Debug\CapaEntidad.pdb
 >>>>>>> a711128e5df1be410554da713a0aca80c3a60ef4
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaEntidad\obj\Debug\CapaEntidad.pdb

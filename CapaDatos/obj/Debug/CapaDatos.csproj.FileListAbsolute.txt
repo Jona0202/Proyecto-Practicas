@@ -39,3 +39,12 @@ C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaDatos\obj\Debug\CapaDatos.csproj.C
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaDatos\obj\Debug\CapaDatos.pdb
 >>>>>>> a711128e5df1be410554da713a0aca80c3a60ef4
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jonatan\Videos\Proyecto-Practicas\CapaDatos\obj\Debug\CapaDatos.pdb
