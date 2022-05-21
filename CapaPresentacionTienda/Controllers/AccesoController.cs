@@ -45,7 +45,6 @@ namespace CapaPresentacionTienda.Controllers
                 return View();
             }
 
-
             resultado = new CN_Cliente().Registrar(objeto, out mensaje);
 
             if (resultado > 0)
@@ -57,7 +56,6 @@ namespace CapaPresentacionTienda.Controllers
                 ViewBag.Error = mensaje;
                 return View();
             }
-
         }
 
         [HttpPost]
@@ -95,7 +93,6 @@ namespace CapaPresentacionTienda.Controllers
 
             }
         }
-
 
         [HttpPost]
         public ActionResult Reestablecer(string correo)
@@ -181,8 +178,6 @@ namespace CapaPresentacionTienda.Controllers
             }
 
         }
-
-
 
         public ActionResult CerrarSesion()
         {

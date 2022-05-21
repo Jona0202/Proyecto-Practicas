@@ -20,7 +20,6 @@ C:\Users\Jonatan\Music\Proyecto-Practicas\CapaEntidad\obj\Debug\CapaEntidad.cspr
 C:\Users\Jonatan\Music\Proyecto-Practicas\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\Jonatan\Music\Proyecto-Practicas\CapaEntidad\obj\Debug\CapaEntidad.pdb
 >>>>>>> Stashed changes
-=======
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaEntidad\bin\Debug\CapaEntidad.dll
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaEntidad\bin\Debug\CapaEntidad.pdb
 C:\Users\Jonatan\Pictures\Diplomados_ACIS\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache

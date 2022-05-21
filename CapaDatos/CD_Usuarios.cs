@@ -181,7 +181,6 @@ namespace CapaDatos
             return resultado;
         }
 
-
         public bool ReestablecerClave(int idusuario, string clave, out string Mensaje)
         {
             bool resultado = false;
@@ -205,8 +204,5 @@ namespace CapaDatos
             }
             return resultado;
         }
-
-
-
     }
 }

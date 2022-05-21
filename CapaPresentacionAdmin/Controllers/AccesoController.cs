@@ -19,6 +19,10 @@ namespace CapaPresentacionAdmin.Controllers
         {
             return View();
         }
+        public ActionResult Registrar()
+        {
+            return View();
+        }
         public ActionResult CambiarClave()
         {
             return View();
@@ -57,6 +61,36 @@ namespace CapaPresentacionAdmin.Controllers
                 ViewBag.Error = null;
 
                 return RedirectToAction("Index", "Home");
+            }
+        }
+
+        [HttpPost]
+        public ActionResult Registrar(Usuario objeto)
+        {
+            int resultado;
+            string mensaje = string.Empty;
+
+            ViewData["Nombres"] = string.IsNullOrEmpty(objeto.Nombres) ? "" : objeto.Nombres;
+            ViewData["Apellidos"] = string.IsNullOrEmpty(objeto.Apellidos) ? "" : objeto.Apellidos;
+            ViewData["Correo"] = string.IsNullOrEmpty(objeto.Correo) ? "" : objeto.Correo;
+
+            if (objeto.Clave != objeto.ConfirmarClave)
+            {
+                ViewBag.Error = "Las contraseñas no coinciden";
+                return View();
+            }
+
+            resultado = new CN_Usuarios().Registrar(objeto, out mensaje);
+
+            if (resultado > 0)
+            {
+                ViewBag.Error = null;
+                return RedirectToAction("Index", "Acceso");
+            }
+            else
+            {
+                ViewBag.Error = mensaje;
+                return View();
             }
         }
 
@@ -149,8 +183,5 @@ namespace CapaPresentacionAdmin.Controllers
             return RedirectToAction("Index", "Acceso");
 
         }
-
-
-
     }
 }

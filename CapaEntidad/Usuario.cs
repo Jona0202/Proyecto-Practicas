@@ -11,8 +11,10 @@ namespace CapaEntidad
         public int IdUsuario { get; set; }
         public string Nombres { get; set; }
         public string Apellidos { get; set; }
+        //public string Cargo { get; set; }
         public string Correo { get; set; }
         public string Clave { get; set; }
+        public string ConfirmarClave { get; set; }
         public bool Reestablecer { get; set; }
         public bool Activo { get; set; }
 
